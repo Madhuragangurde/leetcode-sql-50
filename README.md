@@ -19,4 +19,5 @@ My solutions to the LeetCode SQL 50 Study Plan for SQL interview preparation.
 | [1661-average-time-of-process-per-machine](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/1757-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
