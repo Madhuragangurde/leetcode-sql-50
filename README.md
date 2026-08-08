@@ -26,4 +26,5 @@ My solutions to the LeetCode SQL 50 Study Plan for SQL interview preparation.
 | [1683-invalid-tweets](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/1934-confirmation-rate) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
