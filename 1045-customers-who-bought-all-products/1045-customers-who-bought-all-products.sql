@@ -7,3 +7,14 @@ group by c.customer_id
 having count(distinct(c.product_key))=(select count(*) from product)
 and count(c.product_key)>1
 order by c.customer_id;
+
+/*
+SELECT c.customer_id
+FROM Customer c
+GROUP BY c.customer_id
+HAVING COUNT(DISTINCT c.product_key) = (
+    SELECT COUNT(*)
+    FROM Product
+)
+ORDER BY c.customer_id;
+*/
