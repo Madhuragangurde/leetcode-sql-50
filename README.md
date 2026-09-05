@@ -76,6 +76,7 @@ My solutions to the LeetCode SQL 50 Study Plan for SQL interview preparation.
 | [0013-roman-to-integer](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |
 | ------- |
