@@ -46,6 +46,7 @@ My solutions to the LeetCode SQL 50 Study Plan for SQL interview preparation.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,9 @@ My solutions to the LeetCode SQL 50 Study Plan for SQL interview preparation.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
