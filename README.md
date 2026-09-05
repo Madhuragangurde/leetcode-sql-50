@@ -6,6 +6,7 @@ My solutions to the LeetCode SQL 50 Study Plan for SQL interview preparation.
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/0550-game-play-analysis-iv) |
