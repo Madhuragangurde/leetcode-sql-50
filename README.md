@@ -30,6 +30,7 @@ My solutions to the LeetCode SQL 50 Study Plan for SQL interview preparation.
 | [1211-queries-quality-and-percentage](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/1280-students-and-examinations) |
+| [1321-restaurant-growth](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Madhuragangurde/leetcode-sql-50/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
